@@ -20,6 +20,23 @@
                     <a class='p-2' href="">Dashboard</a>
                 </li>
             </ul>
+            <ul class="flex items-center">
+                <li>
+                    <a class='p-2' href="">Tahir Ismail</a>
+                </li>
+                <li>
+                    <a class='p-2' href="">Login</a>
+                </li>
+                <li>
+                    <a class='p-2' href="">Register</a>
+                </li>
+                 <li>
+                    <a class='p-2' href="">Logout</a>
+                </li>
+                <li>
+                    <a class='p-2' href="">Dashboard</a>
+                </li>
+            </ul>
         </nav>
         @yield('content')
     </body>
